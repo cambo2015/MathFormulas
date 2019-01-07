@@ -6,7 +6,7 @@ using static Dcoder.Printer;
 /*[Author]: Cambo2015
 /* Liscense : MIT
 /*[Double Check Equation Here] https://www.chilimath.com/lessons/intermediate-algebra/solving-quadratic-equations-quadratic-formula/*/
- namespace Dcoder
+ namespace MathFormulas
  {
  	public class Program
  	{
