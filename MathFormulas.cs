@@ -98,11 +98,6 @@ using static Dcoder.Printer;
  		}
  	}
  	
- 	public class Slope
- 	{
- 		
- 	}
- 	
  	public class PagTheorm :IOneResult,IThreeInput
  	{
  		
